@@ -1,2 +1,2 @@
 # Bugtracker
-my website can solve problem related to bugs in system.we add experts and deligate the bug to one of the expert who is perfect in that field
+my website solve the problem related to bugs in any system ,we provide user login module from where any user can connect to our website and provide their issues, and we also provide an admin module from where admin can add experts and configure the bug which are provided by user to that expert who is perfect in that particular filed, and expert solve the bug and sent solution back to user.
